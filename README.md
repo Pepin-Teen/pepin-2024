@@ -1,1 +1,1 @@
-# pepin-2024-intern
+# pepin-2024 public
